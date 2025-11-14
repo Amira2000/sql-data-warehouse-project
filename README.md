@@ -28,7 +28,11 @@ Deliver insights into customer behavior, product performance, and sales trends t
 - Developed **SQL-based analytics queries** to extract key metrics.  
 - Analyzed **Customer Behavior** to identify purchasing patterns.  
 - Evaluated **Product Performance** to highlight best and worst performing products.  
-- Monitored **Sales Trends** to track performance over time.  
+- Monitored **Sales Trends** to track performance over time.
+
+## License
+This project is licensed under the **MIT License**.
+ou are **free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies** of this project, as permitted under the MIT License.
 
 ---
 
